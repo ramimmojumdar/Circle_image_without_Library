@@ -1,3 +1,6 @@
+![Screenshot](app/src/main/res/drawable/Screenshot_11.png)
+
+
 <h4>create a xml file in values foldear</h4>
 <h5>for example: style.xml</h5>
 
