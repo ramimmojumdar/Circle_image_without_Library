@@ -7,7 +7,7 @@
 ```xml
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <style name="roundedImageView">
+    <style name="roundedImage">
         <item name="cornerFamily">rounded</item>
         <item name="cornerSize">50%</item>
     </style>
@@ -39,7 +39,7 @@
             android:layout_width = "200dp"
             android:layout_height = "200dp"
             android:id="@+id/imgeView"
-            app:shapeAppearanceOverlay="@style/roundedImageView"
+            app:shapeAppearanceOverlay="@style/roundedImage"
             android:src="@drawable/your_image"
             android:layout_gravity="center"
             />
